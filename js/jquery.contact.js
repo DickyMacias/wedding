@@ -10,7 +10,7 @@ jQuery(document).ready(function(){
 		$('#message').hide();
 
  		$('#submit')
-			.before('<div class="text-center"><img src="images/ajax-loader.gif" class="contact-loader" /></div>')
+			.before('<div class="text-center"><img src="https://arrleteyricardo.s3.us-west-1.amazonaws.com/images/ajax-loader.gif" class="contact-loader" /></div>')
 			.attr('disabled','disabled');
 
 		$.post(action, {

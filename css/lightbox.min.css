@@ -52,19 +52,19 @@
 	z-index:110;
 }
 /*.ui-lightbox-panorama-icon-expand {
-	background:url(../images/zoom.png) top left no-repeat;
+	background:url(https://arrleteyricardo.s3.us-west-1.amazonaws.com/images/zoom.png) top left no-repeat;
 }
 .ui-lightbox-panorama-icon-expand-hover {
-	background:url(../images/zoom.png) top left no-repeat;
+	background:url(https://arrleteyricardo.s3.us-west-1.amazonaws.com/images/zoom.png) top left no-repeat;
 }
 .ui-lightbox-panorama-icon-shrink {
-	background:url(../images/zoom-hover.png) top right no-repeat;
+	background:url(https://arrleteyricardo.s3.us-west-1.amazonaws.com/images/zoom-hover.png) top right no-repeat;
 }
 .ui-lightbox-panorama-icon-shrink-hover {
-	background:url(../images/zoom-hover.png) top right no-repeat;
+	background:url(https://arrleteyricardo.s3.us-west-1.amazonaws.com/images/zoom-hover.png) top right no-repeat;
 }*/
 .ui-lightbox-loader {
-	background:url(../images/loader.gif) center center no-repeat;
+	background:url(https://arrleteyricardo.s3.us-west-1.amazonaws.com/images/loader.gif) center center no-repeat;
 }
 #ui-lightbox-bottombar {
 	/*height:40px;*/

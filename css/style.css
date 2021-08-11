@@ -57,7 +57,7 @@ h3 {
 	color: #fff;
 	padding: 0 11px 0 0;
 	margin: 0 0 0 5px;
-	background: url(../images/breadcrumbs.png) no-repeat 100% 50%;
+	background: url(https://arrleteyricardo.s3.us-west-1.amazonaws.com/images/breadcrumbs.png) no-repeat 100% 50%;
 	font-size:14px;
 }
 
@@ -1905,12 +1905,12 @@ ul.hover-social-icons li a:hover {
 	text-indent:-5555em;
 	line-height:100;
 	overflow:hidden;
-	background: url(../images/search-icon.png) no-repeat center 14px;
+	background: url(https://arrleteyricardo.s3.us-west-1.amazonaws.com/images/search-icon.png) no-repeat center 14px;
 	border: 1px solid #eee;
 	border-left:0;
 }
 #site-searchform #searchsubmit:hover{
-	background: url(../images/search-icon.png) no-repeat center 14px;
+	background: url(https://arrleteyricardo.s3.us-west-1.amazonaws.com/images/search-icon.png) no-repeat center 14px;
 }
 
 /* ---------------------------------------------
